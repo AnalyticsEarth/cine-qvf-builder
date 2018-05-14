@@ -1,0 +1,16 @@
+{
+  "name": "cine-qvf-builder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "index": "node ./index.js",
+    "useapp": "node ./useapp.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "enigma.js": "^2.2.1",
+    "halyard.js": "^1.3.0"
+  }
+}
